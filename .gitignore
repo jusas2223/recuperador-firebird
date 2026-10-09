@@ -1,0 +1,12 @@
+# Bancos e resultados de recuperação nunca devem entrar no repositório.
+*.[fF][dD][bB]
+*.[gG][dD][bB]
+*.[fF][bB][kK]
+*.[lL][oO][gG]
+RECUPERACAO_*/
+LEIA_O_RESULTADO.txt
+
+# Cópias locais do executável e arquivos temporários.
+RecuperadorFirebird_ANTES_*.exe
+*.tmp
+*.bak
